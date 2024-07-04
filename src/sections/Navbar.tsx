@@ -121,7 +121,7 @@ const Navbar: React.FC = () => {
                 )}
               </div>
             ) : (
-              <Link to="/register">
+              <Link to="/signup">
                 <button type="button">
                   <div className="bg-limegreen rounded-md px-3 py-2 text-white">
                     Register
@@ -207,7 +207,7 @@ const Navbar: React.FC = () => {
                       )}
                     </div>
                   ) : (
-                    <Link to="/register">
+                    <Link to="/signup">
                       <button type="button">
                         <div className="bg-limegreen rounded-md px-3 py-2 text-white">
                           Register
