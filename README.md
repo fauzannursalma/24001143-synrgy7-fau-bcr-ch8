@@ -4,7 +4,7 @@
 - Deployment Frontend App: Netlify
 
 ## Project Repository
-- [Frontend : This Repo](https://github.com/RiyandiDjohari/24001143-synrgy7-riy-binar_car_rental-ch7)
+- [Frontend : This Repo]
 - [Backend : https://github.com/fauzannursalma/server-bcr](https://github.com/fauzannursalma/server-bcr)
 
 ## Deployment
