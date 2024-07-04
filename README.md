@@ -4,8 +4,8 @@
 - Deployment Frontend App: Netlify
 
 ## Project Repository
-- Frontend : This Repository
-- [Backend : https://github.com/fauzannursalma/server-bcr](https://github.com/fauzannursalma/server-bcr)
+- Frontend (Client-Side) : This Repository
+- [Backend (Server-Side) : https://github.com/fauzannursalma/server-bcr](https://github.com/fauzannursalma/server-bcr)
 
 ## Deployment
 [https://keen-shortbread-c6641c.netlify.app/](https://keen-shortbread-c6641c.netlify.app/)
