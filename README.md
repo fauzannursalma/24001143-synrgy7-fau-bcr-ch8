@@ -4,7 +4,7 @@
 - Deployment Frontend App: Netlify
 
 ## Project Repository
-- [Frontend : This Repo]
+- Frontend : This Repository
 - [Backend : https://github.com/fauzannursalma/server-bcr](https://github.com/fauzannursalma/server-bcr)
 
 ## Deployment
