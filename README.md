@@ -2,6 +2,9 @@
 ## Challenge Chapter 8 - Binar Car Rental
 - Deployment API & Database : Koyeb & Supabase
 - Deployment Frontend App: Netlify
+- Unit Testing
+- Eslint
+- CI/CD
 
 ## Project Repository
 - Frontend (Client-Side) : This Repository
