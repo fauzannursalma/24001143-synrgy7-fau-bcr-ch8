@@ -11,7 +11,7 @@
 - [Backend (Server-Side) : https://github.com/fauzannursalma/server-bcr](https://github.com/fauzannursalma/server-bcr)
 
 ## Deployment
-[https://keen-shortbread-c6641c.netlify.app/](https://keen-shortbread-c6641c.netlify.app/)
+[https://helpful-sawine-516358.netlify.app/](https://helpful-sawine-516358.netlify.app/)
 
 ## Example Admin
 ```
