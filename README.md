@@ -13,6 +13,9 @@
 ## Deployment
 [https://helpful-sawine-516358.netlify.app/](https://helpful-sawine-516358.netlify.app/)
 
+## API Docs
+[API Docs](https://yucky-honey-fauzann-b31e29ee.koyeb.app/api-docs/)
+
 ## Example Admin
 ```
 email: admin1@mail.com
