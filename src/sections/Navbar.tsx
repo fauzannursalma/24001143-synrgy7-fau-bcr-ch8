@@ -49,12 +49,17 @@ const Navbar: React.FC = () => {
             </ul>
             {user ? (
               <div className="flex md:space-x-3 space-x-1 space-y-2 items-start relative">
-                <div className="rounded-full w-[38px] h-[38px] bg-[#CFD4ED]">
+                <div
+                  className="rounded-full w-[38px] h-[38px] bg-[#CFD4ED]"
+                  onClick={toggleDropdown}
+                >
                   <p className="font-bold md:text-base text-sm text-center py-2">
                     {user.name[0]}
                   </p>
                 </div>
-                <p className="font-bold text-center">{user.name}</p>
+                <p className="font-bold text-center" onClick={toggleDropdown}>
+                  {user.name}
+                </p>
                 <button onClick={toggleDropdown}>
                   <i data-feather="chevron-down"></i>
                 </button>
@@ -91,7 +96,10 @@ const Navbar: React.FC = () => {
           <div className="md:hidden toggler">
             {user ? (
               <div className="flex md:space-x-3 space-x-1 space-y-2 items-start relative">
-                <div className="rounded-full w-[38px] h-[38px] bg-[#CFD4ED]">
+                <div
+                  className="rounded-full w-[38px] h-[38px] bg-[#CFD4ED]"
+                  onClick={toggleDropdown}
+                >
                   <p className="font-bold md:text-base text-sm text-center py-2">
                     {user.name[0]}
                   </p>
@@ -173,12 +181,20 @@ const Navbar: React.FC = () => {
                   </ul>
                   {user ? (
                     <div className="flex md:space-x-3 space-x-1 space-y-2 items-start relative">
-                      <div className="rounded-full w-[38px] h-[38px] bg-[#CFD4ED]">
+                      <div
+                        className="rounded-full w-[38px] h-[38px] bg-[#CFD4ED]"
+                        onClick={toggleDropdown}
+                      >
                         <p className="font-bold md:text-base text-sm text-center py-2">
                           {user.name[0]}
                         </p>
                       </div>
-                      <p className="font-bold text-center">{user.name}</p>
+                      <p
+                        className="font-bold text-center"
+                        onClick={toggleDropdown}
+                      >
+                        {user.name}
+                      </p>
                       <button onClick={toggleDropdown}>
                         <i data-feather="chevron-down"></i>
                       </button>
